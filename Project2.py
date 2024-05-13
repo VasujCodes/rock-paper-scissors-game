@@ -1,4 +1,3 @@
-# Chatgpt code... more readable
 
 import random
 
